@@ -5,4 +5,4 @@ def contains_duplicate(nums):
             return True
         else:
             helper[number] = number
-    return False
+    return False 
